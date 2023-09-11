@@ -1,5 +1,4 @@
-# Grace Hopper
+# Barbara Liskov
 ## Introduction
-[Grace Brewster Hopper](https://en.wikipedia.org/wiki/Grace_Hopper) (née Murray; December 9, 1906 – January 1, 1992) was an American computer scientist, mathematician, and United States Navy rear admiral. One of the first programmers of the Harvard Mark I computer,
-she was a pioneer of computer programming who invented one of the first linkers. Hopper was the first to devise the theory of machine-independent programming languages, 
-and the FLOW-MATIC programming language she created using this theory was later extended to create COBOL, an early high-level programming language still in use today. -[Wikipedia Entry](https://en.wikipedia.org/wiki/Grace_Hopper)
+[Barbara Liskov](https://en.wikipedia.org/wiki/Barbara_Liskov) (born November 7, 1939 as Barbara Jane Huberman) is an American computer scientist who has made pioneering contributions to programming languages and distributed computing. 
+Her notable work includes the development of the Liskov substitution principle which describes the fundamental nature of data abstraction, and is used in type theory (see subtyping) and in object-oriented programming (see inheritance). Her work was recognized with the 2008 Turing Award, the highest distinction in computer science. - [Wikipedia Entry](https://en.wikipedia.org/wiki/Barbara_Liskov)
